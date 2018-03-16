@@ -41,7 +41,7 @@ Let ![](http://latex.codecogs.com/gif.latex?h(r)=r+1-2\\ln(r),) then ![](http://
 
 So ![](http://latex.codecogs.com/gif.latex?h(r)\\geq(h(2))=3-2\\ln(2)>0,g'(r)=\\frac{h(r)}{r}>0;)
 
-![](http://latex.codecogs.com/gif.latex?(g(r)>g(2)=1+\\ln(2)-(\\ln(2))^2=1+\\ln(2)(1-\\ln(2))>0;)
+![](http://latex.codecogs.com/gif.latex?g(r)>g(2)=1+\\ln(2)-(\\ln(2))^2=1+\\ln(2)(1-\\ln(2))>0;)
 
 ![](http://latex.codecogs.com/gif.latex?(r-1)\\ln(\\frac{r-\\ln(r)}{r-1})+\\ln(r)\\geq\\frac{g(r)}{r-\\ln(r)}>0.)
 
